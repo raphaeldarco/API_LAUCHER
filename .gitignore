@@ -1,0 +1,8 @@
+*.ini
+*.xls
+*.xlsx
+*.spec
+*.rar
+build/
+dist/ 
+old/
