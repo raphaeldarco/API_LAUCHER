@@ -1,5 +1,0 @@
-endpoint_base = entry_endpoint_api.get().strip().rstrip('/')
-    endpoint = endpoint_base + '/pje/seam/resource/rest/pje-legacy/api/v1/servico/incluir-novo-fluxo/'
-
-
-    
